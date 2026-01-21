@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <PROGDIR>
-    <NAME>ZREPORT_7460</NAME>
+    <NAME>ZREPORT_7460_TABU</NAME>
     <SUBC>1</SUBC>
     <RLOAD>E</RLOAD>
     <FIXPT>X</FIXPT>
@@ -12,7 +12,7 @@
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>Program ZREPORT_7460</ENTRY>
+     <ENTRY>Program ZREPORT_7460_TABU</ENTRY>
      <LENGTH>20</LENGTH>
     </item>
    </TPOOL>
