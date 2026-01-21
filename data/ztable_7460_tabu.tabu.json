@@ -1,21 +1,21 @@
 [
   {
-    "mandt": "100",
+    "mandt": "001",
     "id": "        1",
     "word": "foo"
   },
   {
-    "mandt": "100",
+    "mandt": "001",
     "id": "        2",
     "word": "bar"
   },
   {
-    "mandt": "100",
+    "mandt": "001",
     "id": "        3",
     "word": "baz"
   },
   {
-    "mandt": "100",
+    "mandt": "001",
     "id": "        4",
     "word": "qux"
   }
